@@ -49,9 +49,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'libreria_db',
         'USER': 'postgres',
-        'PASSWORD': 'tu_password',
+        'PASSWORD': 'sdasddas',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '7833',
     }
 }
 ```
