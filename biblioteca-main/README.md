@@ -98,7 +98,7 @@ def add_author(request):
 
 Ejemplo en Postman:
 
-<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/ac1dea5c-0940-41e3-a48a-ec38a7ab8418" />
+<img width="676" height="410" alt="image" src="https://github.com/user-attachments/assets/7b629973-55d5-4543-8e24-61856d550516" />
 
 ✅ Gestión de Géneros
 
@@ -130,7 +130,7 @@ def add_genre(request):
 
 Ejemplo en Postman:
 
-<img width="924" height="382" alt="image" src="https://github.com/user-attachments/assets/89633cf6-3766-4a58-b605-26752a83de38" />
+<img width="672" height="378" alt="image" src="https://github.com/user-attachments/assets/011aea05-fe39-424f-bbd0-1c610be16f73" />
 
 ✅ Registro de Libros
 
@@ -157,7 +157,7 @@ def add_book(request):
 
 Ejemplo en Postman:
 
-<img width="931" height="535" alt="image" src="https://github.com/user-attachments/assets/524543f7-bfff-401b-8ed1-d63637445266" />
+<img width="502" height="392" alt="image" src="https://github.com/user-attachments/assets/0bba0c08-7ea0-4962-853b-b4dd0d5b31e0" />
 
 ✅ Visualización de Libros
 
@@ -173,7 +173,7 @@ def list_books(request):
 
 Ejemplo en Postman:
 
-<img width="931" height="429" alt="image" src="https://github.com/user-attachments/assets/48d7275a-10b1-48eb-82ba-d5944ef8fa8b" />
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/389818ff-235e-479f-8421-7bc4da472c83" />
 
 ✅ Actualización de Calificaciones
 
@@ -196,7 +196,7 @@ def rate_book(request, book_id):
 
 Ejemplo en Postman:
 
-<img width="922" height="408" alt="image" src="https://github.com/user-attachments/assets/5f98ecac-eeaf-4ab0-bbb4-02a8d5b00d01" />
+<img width="504" height="303" alt="image" src="https://github.com/user-attachments/assets/a63fd766-5eb6-49f9-ace6-f3a5ebeaa4e2" />
 
 📝 Lectura de Datos con Pandas
 
@@ -223,39 +223,35 @@ print(df.head())
 
 Distribución de las calificaciones:
 
-<img width="970" height="577" alt="image" src="https://github.com/user-attachments/assets/85018a5b-82b5-447a-92e4-6f077da1a9bd" />
+<img width="509" height="432" alt="image" src="https://github.com/user-attachments/assets/0f89462f-6369-4993-bbc3-0b47f0d2d3bd" />
 
 Promedio de calificación por usuario:
 
-<img width="965" height="571" alt="image" src="https://github.com/user-attachments/assets/2ba0ba85-e9cb-4c15-b2da-b4c1a239ea90" />
+<img width="533" height="422" alt="image" src="https://github.com/user-attachments/assets/11a9d5f0-8405-4990-9e80-9ecdae6f2807" />
 
 Cantidad de libros en cada género:
 
-<img width="586" height="584" alt="image" src="https://github.com/user-attachments/assets/be7d33c2-a723-4d68-8819-12992544c9c9" />
-
-Autores más prolíficos
-
-(imagen del gráfico autores más prolíficos)
+<img width="538" height="394" alt="image" src="https://github.com/user-attachments/assets/447b5c7e-c4b8-4fc3-8e22-b728d951f90d" />
 
 Libros con mejor promedio de calificación
 
-<img width="966" height="479" alt="image" src="https://github.com/user-attachments/assets/86e4cfa0-ab1d-401e-a164-e16ce986d77e" />
+<img width="1244" height="616" alt="image" src="https://github.com/user-attachments/assets/0fa7e826-9c32-413d-a3ec-4d9181b6b291" />
 
 Media de valoración por género
 
-<img width="963" height="570" alt="image" src="https://github.com/user-attachments/assets/ed0defc8-93b2-4563-9bf1-21be744786b1" />
+<img width="977" height="579" alt="image" src="https://github.com/user-attachments/assets/ebc9f82a-c636-41a5-840c-3869c915ee24" />
 
 Libros más valorados
 
-<img width="966" height="571" alt="image" src="https://github.com/user-attachments/assets/d581bde2-dbe1-4025-a78a-5d1299940699" />
+<img width="977" height="581" alt="image" src="https://github.com/user-attachments/assets/ba7c1ecb-0d5f-4fb1-bd47-19ab437d40db" />
 
 Autores con más calificaciones
 
-<img width="967" height="576" alt="image" src="https://github.com/user-attachments/assets/b29961ee-fecc-4e08-9dfb-13bb6d745592" />
+<img width="985" height="580" alt="image" src="https://github.com/user-attachments/assets/08864ecb-2e47-4f18-ab39-b68a5c50e159" />
 
 Evolución de publicaciones a lo largo de los años
 
-<img width="962" height="572" alt="image" src="https://github.com/user-attachments/assets/ca6331bc-3aea-44c8-a097-4a7084169e76" />
+<img width="982" height="576" alt="image" src="https://github.com/user-attachments/assets/2e807dc1-3600-491f-b3b7-444488d5239d" />
 
 💡 Recomendaciones por Género
 
@@ -268,11 +264,11 @@ python manage.py recomendar_por_genero aventura
 
 Ejemplo de resultado:
 
-<img width="973" height="273" alt="image" src="https://github.com/user-attachments/assets/cb24c910-6baa-4db1-b984-9ae041a305eb" />
+<img width="743" height="293" alt="image" src="https://github.com/user-attachments/assets/053de4c6-5eb3-4d1c-a8ab-583183ea78c0" />
 
 Si el género no existe, se devuelve un aviso de error:
 
-<img width="979" height="109" alt="image" src="https://github.com/user-attachments/assets/f281eb22-3a44-4ff8-946c-da0dafa792d9" />
+<img width="745" height="113" alt="image" src="https://github.com/user-attachments/assets/af504c0e-6cd8-4f4a-9812-44782caa7e36" />
 
 Si el género existe, pero no hay libros calificados:
 
