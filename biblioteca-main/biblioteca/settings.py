@@ -72,11 +72,11 @@ WSGI_APPLICATION = 'biblioteca.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'biblioteca',
+        'NAME': 'libreria_db',
         'USER': 'postgres',
-        'PASSWORD': '123456789',
+        'PASSWORD': 'sdasddas',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '7833',
     }
 }
 
